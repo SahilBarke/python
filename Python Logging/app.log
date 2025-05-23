@@ -1,0 +1,20 @@
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+2025-05-20 11:16:48,280 - my_logger - DEBUG - This is a debug message
+DEBUG:my_logger:This is a debug message
+2025-05-20 11:16:48,281 - my_logger - INFO - This is an info message
+INFO:my_logger:This is an info message
+2025-05-20 11:16:48,283 - my_logger - WARNING - This is a warning message
+WARNING:my_logger:This is a warning message
+2025-05-20 11:16:48,284 - my_logger - ERROR - This is an error message
+ERROR:my_logger:This is an error message
+2025-05-20 11:16:48,284 - my_logger - CRITICAL - This is a critical message
+CRITICAL:my_logger:This is a critical message
+DEBUG:custom_logger:This is a debug message
+INFO:custom_logger:This is an info message
+WARNING:custom_logger:This is a warning message
+ERROR:custom_logger:This is an error message
+CRITICAL:custom_logger:This is a critical message

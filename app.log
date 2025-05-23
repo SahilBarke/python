@@ -1,0 +1,15 @@
+2025-05-23 20:54:49,731 - sampleLogger - DEBUG - Debug message
+2025-05-23 20:54:49,731 - sampleLogger - INFO - Info message
+2025-05-23 20:54:49,731 - sampleLogger - WARNING - Warning message
+2025-05-23 20:54:49,731 - sampleLogger - ERROR - Error message
+2025-05-23 20:54:49,731 - sampleLogger - CRITICAL - Critical message
+2025-05-23 20:54:59,706 - sampleLogger - DEBUG - Debug message
+2025-05-23 20:54:59,707 - sampleLogger - INFO - Info message
+2025-05-23 20:54:59,707 - sampleLogger - WARNING - Warning message
+2025-05-23 20:54:59,707 - sampleLogger - ERROR - Error message
+2025-05-23 20:54:59,707 - sampleLogger - CRITICAL - Critical message
+2025-05-23 20:55:11,896 - sampleLogger - DEBUG - Debug message
+2025-05-23 20:55:11,896 - sampleLogger - INFO - Info message
+2025-05-23 20:55:11,926 - sampleLogger - WARNING - Warning message
+2025-05-23 20:55:11,927 - sampleLogger - ERROR - Error message
+2025-05-23 20:55:11,927 - sampleLogger - CRITICAL - Critical message

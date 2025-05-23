@@ -1,0 +1,20 @@
+2025-05-20 11:15:01,002 - custom_logger - DEBUG - This is a debug message
+2025-05-20 11:15:01,005 - custom_logger - INFO - This is an info message
+2025-05-20 11:15:01,007 - custom_logger - WARNING - This is a warning message
+2025-05-20 11:15:01,010 - custom_logger - ERROR - This is an error message
+2025-05-20 11:15:01,014 - custom_logger - CRITICAL - This is a critical message
+2025-05-20 11:15:38,040 - custom_logger - DEBUG - This is a debug message
+2025-05-20 11:15:38,040 - DEBUG - This is a debug message
+2025-05-20 11:15:38,045 - custom_logger - INFO - This is an info message
+2025-05-20 11:15:38,045 - INFO - This is an info message
+2025-05-20 11:15:38,051 - custom_logger - WARNING - This is a warning message
+2025-05-20 11:15:38,051 - WARNING - This is a warning message
+2025-05-20 11:15:38,056 - custom_logger - ERROR - This is an error message
+2025-05-20 11:15:38,056 - ERROR - This is an error message
+2025-05-20 11:15:38,060 - custom_logger - CRITICAL - This is a critical message
+2025-05-20 11:15:38,060 - CRITICAL - This is a critical message
+2025-05-20 11:16:56,880 - DEBUG - This is a debug message
+2025-05-20 11:16:56,882 - INFO - This is an info message
+2025-05-20 11:16:56,882 - WARNING - This is a warning message
+2025-05-20 11:16:56,884 - ERROR - This is an error message
+2025-05-20 11:16:56,886 - CRITICAL - This is a critical message
